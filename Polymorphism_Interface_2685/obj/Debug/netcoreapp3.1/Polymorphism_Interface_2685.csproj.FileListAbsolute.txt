@@ -1,0 +1,13 @@
+D:\Interface\Polymorphism_Interface_2685\bin\Debug\netcoreapp3.1\Polymorphism_Interface_2685.exe
+D:\Interface\Polymorphism_Interface_2685\bin\Debug\netcoreapp3.1\Polymorphism_Interface_2685.deps.json
+D:\Interface\Polymorphism_Interface_2685\bin\Debug\netcoreapp3.1\Polymorphism_Interface_2685.runtimeconfig.json
+D:\Interface\Polymorphism_Interface_2685\bin\Debug\netcoreapp3.1\Polymorphism_Interface_2685.runtimeconfig.dev.json
+D:\Interface\Polymorphism_Interface_2685\bin\Debug\netcoreapp3.1\Polymorphism_Interface_2685.dll
+D:\Interface\Polymorphism_Interface_2685\bin\Debug\netcoreapp3.1\Polymorphism_Interface_2685.pdb
+D:\Interface\Polymorphism_Interface_2685\obj\Debug\netcoreapp3.1\Polymorphism_Interface_2685.csprojAssemblyReference.cache
+D:\Interface\Polymorphism_Interface_2685\obj\Debug\netcoreapp3.1\Polymorphism_Interface_2685.csproj.CoreCompileInputs.cache
+D:\Interface\Polymorphism_Interface_2685\obj\Debug\netcoreapp3.1\Polymorphism_Interface_2685.AssemblyInfoInputs.cache
+D:\Interface\Polymorphism_Interface_2685\obj\Debug\netcoreapp3.1\Polymorphism_Interface_2685.AssemblyInfo.cs
+D:\Interface\Polymorphism_Interface_2685\obj\Debug\netcoreapp3.1\Polymorphism_Interface_2685.dll
+D:\Interface\Polymorphism_Interface_2685\obj\Debug\netcoreapp3.1\Polymorphism_Interface_2685.pdb
+D:\Interface\Polymorphism_Interface_2685\obj\Debug\netcoreapp3.1\Polymorphism_Interface_2685.genruntimeconfig.cache
